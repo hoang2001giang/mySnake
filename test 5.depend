@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1590936444 source:c:\users\laptopaz.vn\documents\test 5\main.cpp
+	"Snake.h"
+
+1591520502 c:\users\laptopaz.vn\documents\test 5\snake.h
+	<stdio.h>
+	<SDL2/SDL.h>
+	<string>
+
+1591579753 source:c:\users\laptopaz.vn\documents\test 5\snake.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<ctime>
+	"Snake.h"
+
+1590936444 source:d:\documents\test 5\main.cpp
+	"Snake.h"
+
+1591520502 d:\documents\test 5\snake.h
+	<stdio.h>
+	<SDL2/SDL.h>
+	<string>
+
+1591579919 source:d:\documents\test 5\snake.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<ctime>
+	"Snake.h"
+
+1590936444 source:c:\users\laptopaz.vn\onedrive\máy tính\new folder\mysnake\main.cpp
+	"Snake.h"
+
+1591520502 c:\users\laptopaz.vn\onedrive\máy tính\new folder\mysnake\snake.h
+	<stdio.h>
+	<SDL2/SDL.h>
+	<string>
+
+1591579919 source:c:\users\laptopaz.vn\onedrive\máy tính\new folder\mysnake\snake.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<ctime>
+	"Snake.h"
+
